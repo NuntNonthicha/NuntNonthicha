@@ -4,9 +4,9 @@
 * 📫 How to reach me : nunt.nonthicha@gmail.com
 
 
-<div style="display: flex; flex-direction: column;">
- <img style="margin-top: 30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuntNonthicha&theme=radical&layout=compact" />
- <img style="margin-top: 200px" src="https://github-readme-stats.vercel.app/api?username=NuntNonthicha&show_icons=true&theme=radical" />
+<div style="display: flex; flex-direction: row; margin-bottom: 50px;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuntNonthicha&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=NuntNonthicha&show_icons=true&theme=radical" />
 </div>
 <!--
 **NuntNonthicha/NuntNonthicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
