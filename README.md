@@ -2,6 +2,9 @@
 
 * 💻 I’m currently studying computer engineering at KMITL
 * 📫 How to reach me : nunt.nonthicha@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NuntNonthicha/NuntNonthicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
