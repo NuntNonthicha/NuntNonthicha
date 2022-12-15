@@ -5,7 +5,7 @@
 
 
 <div style="display: flex; flex-direction: column;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuntNonthicha&theme=radical&layout=compact" />
+ <img style="margin-top: 30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuntNonthicha&theme=radical&layout=compact" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=NuntNonthicha&show_icons=true&theme=radical" />
 </div>
 <!--
