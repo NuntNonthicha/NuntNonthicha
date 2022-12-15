@@ -6,7 +6,6 @@
 
 <div style="display: flex; flex-direction: column; margin-top: 200px;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuntNonthicha&theme=radical&layout=compact" />
- 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=NuntNonthicha&show_icons=true&theme=radical" />
 </div>
 <!--
