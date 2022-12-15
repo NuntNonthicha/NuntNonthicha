@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Nonthicha</h1>
 
 * 🔭 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang
 * 🌱 I’m currently learning Computer Engineering
