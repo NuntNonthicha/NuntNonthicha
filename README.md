@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nonthicha👋😄</h1>
 
-* 🌱 I’m currently learning Computer Engineering at KMITL
+* 💻 I’m currently studying computer engineering at KMITL
 * 📫 How to reach me : nunt.nonthicha@gmail.com
 <!--
 **NuntNonthicha/NuntNonthicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
