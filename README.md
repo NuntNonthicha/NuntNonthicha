@@ -3,8 +3,11 @@
 * 💻 I’m currently studying computer engineering at KMITL
 * 📫 How to reach me : nunt.nonthicha@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
 <!--
 **NuntNonthicha/NuntNonthicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
