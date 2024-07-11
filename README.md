@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nonthicha👋😄</h1>
 
-* 💻 I’m currently studying computer engineering at KMITL
+* 💻 I studied Computer Engineering.
 * 📫 How to reach me : nunt.nonthicha@gmail.com
 
 
